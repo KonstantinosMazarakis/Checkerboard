@@ -1,0 +1,13 @@
+.black {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: black;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: red;
+}
